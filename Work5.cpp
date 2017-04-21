@@ -1,4 +1,4 @@
-// Work5.cpp: определяет точку входа для консольного приложения.
+// Work5.cpp:
 //
 #include "stdafx.h"
 #include <iostream>
